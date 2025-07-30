@@ -1,0 +1,11 @@
+body {
+    margin: 20px 10px;
+    font-size: 25px;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+}
+
+
+
